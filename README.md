@@ -1,3 +1,5 @@
+обязательно к прочтению
+
 import g4f
 from g4f.Provider import (
     GeekGpt,
